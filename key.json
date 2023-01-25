@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "hw8-bertella",
+    "private_key_id": "11a10fc2cfb6cd01eb1d8f7b2f43a466c3e6958b",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCfMIvqRXAhlIMt\nwGrJM1F31wemVWO8kRQj7CJ3wBKGdmv6p8H+HzUvS5n/ZHsixWf2EZiodPWI3cfU\n1UlE83C4gyQCy+Y26Ysc53j/lnwtz2YDBWkbvosoi1AA1Zu7f81j0FBQrZXiOzF4\nx4brh7pPSQxSKLg4T//CBOZ3yRMQXvzIMw4L6HL28YeAgs2YqOECekNfD43PFRxo\nY33naCyTIgpuKiK8uwCjg8L6XaCZS9GxKQolRy0vEKbWa681RJPkTLNuVVyhbPzU\nDO5Hx3zDwuzL2JVI9jwQ1AA4dqt5aobDFFup+NT9lzcNVYyqIqZYkIi9VvFFu6Rb\nKzpSS5BTAgMBAAECggEASRKsT0RDpi55jtFiU2x6q6Opz8knqMIB+EFnSwgAmPeY\nNm22Z5PkwoqWLL1vprTuNW67YCycHxELL2Aeq4eCCTitmZkGWtOWt5RrnwtxgkfP\nYHil2IX9dAWLGm7zdzzBx90yWO5tvHUGjxYsEUbzF30FKlulwLe8Q9AjCP5kgWEX\nbKj9Yp4u+46DEF9OAR89sloCM/MjLpzwrubyCkc4JBVqtDmKlX1+0JiNSKPsFQKq\nIgLKJljygdDEtcpn7q77j/H5AgQgx/Q7d7ThyKPX5xdLD+hkNnfhc5P3W4oaaM3S\nQnE6V2EKN2fF0HZtKnhBdmYrC/9vLTN9WJ90ZrJVjQKBgQDTD79kIIAta3u4T5M7\nvZ4Bzi/Br2Ri3jlGo/LwwWnBPnJi/1dvThEpxt7xIsYttmc+NYuS0KOx2eLEQ0R5\nf9/EB2I2VoXZ2+991aCX2EUNrW0+n9h5v23bfZKJ0X1VBCv0yhcuhrVP7RfNTOCy\nL5wfYNE7puWfdxj7KuE0nnY4vwKBgQDBFW/9z55UDlE+CwbFuPnsFkrz7+WEbAN5\nhitRPirjGf2IKboUcj22jvkgNLPRa6l/JLCQjmn96CN15LIlGeosTuGSKKMjlPJi\noKB7B/i2ow2FgKegojJ4AcNAkN8etByaeLTFAi76B6+hkrTf6stAcEBUQXErTdps\nmVaT+4VZbQKBgBKCGAN8wiC5gzDncX7Uou1/mjp+2eu9lwI10FECdPaoNjmuMImn\nK+Qg913n8b8Cds1CvsmSGDi5ZaRWTcPlzcaP6zHepoAzRC4htKJ8KZoIckMCm2YZ\nvlV4DoidYUM6SWx+6EeBMpcesG6lZjLZ7/PkdpSnjw1L0Vn9KaCGoNFbAoGAATX8\nNNBHgulwEv6ItVa6ooNlRvBbNSBkSS/RN7o3FKOGFoOEejpZLrrozw3ljsupDXYS\ncWWjPodlKYkcoOTvtgVsnrkIhOGbP4kYWI0tPx/4pryu0HAT9vKz4cTG0W95unJF\nV/Lyjnjb3hyIa9sSGT5a+OxMJGRhmUrA4z6xkGUCgYBIpLiDj1HP1ldvcSE+YbVL\n3yWyAx64m9+QnjEwy0ZcezlRv+6Xes1qqL/0Igskzau2iYubUN2q+y5mJiDvO56O\nDa5/RDSXK7pyHcakXeGZMA994OARCqLrXKEcYAsZ6srCNltvJ0lM9dQ8Yc0k9m9c\nbyjxuEHJjB7fcotmZRk7Og==\n-----END PRIVATE KEY-----\n",
+    "client_email": "hw8-bertella-osu@hw8-bertella.iam.gserviceaccount.com",
+    "client_id": "101644066476852062321",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hw8-bertella-osu%40hw8-bertella.iam.gserviceaccount.com"
+  }
